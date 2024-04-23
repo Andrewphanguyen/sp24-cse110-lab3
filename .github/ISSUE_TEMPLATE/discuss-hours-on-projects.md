@@ -1,9 +1,9 @@
 ---
 name: Discuss hours on projects
 about: How many hours on a project
-title: ''
-labels: ''
-assignees: ''
+title: 'hours on project'
+labels: 'Design'
+assignees: 'Andrew'
 
 ---
 
