@@ -14,10 +14,13 @@
 ### Yesterday's meeting
 - **Member 1**: 
   - Task not completed
+  - yapped about their day
 - **Member 2**:
-  - Task not completed 
+  - Task not completed
+  - slept all day
 - **Member 3**:
   - Task not completed
+  - was abasent yesterday
 
 ### Today's meeting
 - **Member 1**: 
