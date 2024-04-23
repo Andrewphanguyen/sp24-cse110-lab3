@@ -1,8 +1,8 @@
 ---
 name: Create meeting minutes template
 about: 'to be a reminder of creating meeting minutes '
-title: ''
-labels: ''
+title: new design for meetings
+labels: design
 assignees: ''
 
 ---
